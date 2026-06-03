@@ -43,7 +43,7 @@ PAGE_ORDER = [
     ("pages/6_Best_Model.py", "Best Model"),
     ("pages/7_Live_Prediction.py", "Live Prediction"),
     ("pages/8_Explainable_AI.py", "Explainable AI"),
-    ("pages/9_Future_Work.py", "Future Work"),
+    # ("pages/9_Future_Work.py", "Future Work"),
 ]
 
 PROJECT_SUMMARY = {
